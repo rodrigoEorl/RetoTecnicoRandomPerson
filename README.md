@@ -10,10 +10,14 @@ Proyecto Fullstack para prueba técnica — consumo de API con backend .NET 8 y 
 ## Comandos/pasos para ejecucion
 
 ### Frontend (VS Code)
+```bash
 -Abrir ruta
 npm install
 npm run dev
+```
 
 ### Backend (Visual Studio 2022)
+```bash
 -Abrir solucion
 dotnet run (o seleccionar perfil IIS)
+```
